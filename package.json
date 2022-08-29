@@ -7,7 +7,7 @@
   "private": false,
   "scripts": {
     "build": "tsc -p tsconfig.json",
-        "start": "tsc -p tsconfig.json"
+    "start": "tsc -p tsconfig.json"
   },
   "devDependencies": {
     "@types/jest": "^23.3.13",
