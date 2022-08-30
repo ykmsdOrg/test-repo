@@ -5,3 +5,4 @@ const stats = fs.lstatSync("./foo.js");
 console.log(stats);
 qsdf;
 qsdf;
+qsdf;
