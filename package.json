@@ -6,8 +6,8 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "tsc -p tsconfig.json"pushed,
-    "start": "tsc -p tsconfig.json"
+    "build": "tsc -p tsconfig.json",
+    "start": "echo 'foo'"
   },
   "devDependencies": {
     "@types/jest": "^23.3.13",
