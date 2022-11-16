@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "johnsoncodehk.alpine-language-features"
+        "johnsoncodehk.alpine-language-features",
+        "Angular.ng-template"
     ]
 }
