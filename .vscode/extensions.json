@@ -1,7 +1,5 @@
 {
     "recommendations": [
-        "johnsoncodehk.alpine-language-features",
-        "angular.ng-template",
         "eliverlara.andromeda"
     ]
 }
