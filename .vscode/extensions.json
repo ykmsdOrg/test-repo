@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "eliverlara.andromeda"
+        "eliverlara.andromeda",
+        "astro-build.astro-vscode"
     ]
 }
