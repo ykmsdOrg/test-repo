@@ -1,4 +1,3 @@
 {
-  "installDependencies": true,
-  "startCommand": "cd .vscode"
+  "installDependencies": false
 }
