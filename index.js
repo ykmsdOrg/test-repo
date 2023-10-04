@@ -1,1 +1,1 @@
-staged
+index.js;
