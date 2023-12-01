@@ -2,7 +2,7 @@
 .cache
 npm-debug.log
 Thumbs.db
-node_modules/
+node_modules
 .build/
 extensions/**/dist/
 /out*/
